@@ -44,7 +44,7 @@ body {
   button {
     width: 100%;
     padding: 12px;
-    background-color: #3182ce;
+    background-color: #035e25;
     color: white;
     border: none;
     border-radius: 8px;
@@ -54,7 +54,7 @@ body {
   }
   
   button:hover {
-    background-color: #2b6cb0;
+    background-color: #027027;
   }
   
   h2 {
